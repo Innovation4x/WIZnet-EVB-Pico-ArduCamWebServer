@@ -1,1 +1,1 @@
-# WIZnet-EVB-Pico-CamWebServer
+# WIZnet-EVB-Pico-ArduCamWebServer
